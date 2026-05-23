@@ -1,0 +1,11 @@
+# Chặn rác của Backend (Spring Boot)
+/target/
+/.idea/
+*.class
+*.iml
+.DS_Store
+
+# Chặn rác của Frontend (React nằm bên trong)
+smart-finance-frontend/node_modules/
+smart-finance-frontend/dist/
+smart-finance-frontend/.env
